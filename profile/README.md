@@ -1,6 +1,6 @@
-# Deltionhoeren
+# Deltion hoeren
 
-Welkom op de GitHub-organisatie van **Deltionhoeren**.
+Welkom op de GitHub-organisatie van **Deltion hoeren**.
 
 Deze organisatie gebruiken we om onze projecten, opdrachten en experimenten centraal te beheren. Hier werken we samen aan software, websites en andere ICT-projecten.
 
@@ -43,4 +43,4 @@ Bekijk de repositories binnen deze organisatie voor de actuele projecten en opdr
 
 ---
 
-**Deltionhoeren** · Samen leren, bouwen en verbeteren.
+**Deltion hoeren** · Samen leren, bouwen en verbeteren.
